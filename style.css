@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+li{
+    flex-basis: 300px;
+}
+
+img{
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 5px;
+}
